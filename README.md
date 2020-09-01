@@ -25,7 +25,6 @@
 - 🔭 I’m currently working on [Angular](https://angular.io/).
 - 🌱 I’m currently learning more about Nodejs.
 - 👯 I’m looking to collaborate on [Upwork](https://www.upwork.com/o/profiles/users/~01fe37f3038c6f8f05/).
-- 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Angular or any tech related stuff.
 - 📫 How to reach me: [Gmail](mailto:abdulrauf76143@gmail.com)
 - 😄 Pronouns: He/His
