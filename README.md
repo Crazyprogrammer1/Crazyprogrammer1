@@ -1,6 +1,5 @@
-## Hola, I'm [Pawan Kumar!](https://pawan.live) 👋
+## Hola, I'm [Abdul Rauf!] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <a href="https://twitter.com/AbdulRa39466616">
   <img align="left" alt="Abdul's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -28,7 +27,7 @@
 - 👯 I’m looking to collaborate on [Upwork](https://www.upwork.com/o/profiles/users/~01fe37f3038c6f8f05/).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Angular or any tech related stuff.
-- 📫 How to reach me: [Gmail](abdulrauf76143@gmail.com)
+- 📫 How to reach me: [Gmail](mailto:abdulrauf76143@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 8 hours listening songs everyday.
 
