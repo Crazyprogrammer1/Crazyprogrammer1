@@ -17,7 +17,7 @@
   <img align="left" alt="Abdul's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://medium.com/@abdulrauf76143">
-  <img align="left" alt="Abdul's Medium" width="22px" src="https://cdn.mos.cms.futurecdn.net/xJGh6cXvC69an86AdrLD98.jpg" />
+  <img align="left" alt="Abdul's Medium" width="22px" src="https://www.pngfind.com/pngs/m/51-512759_medium-icon-svg-hd-png-download.png" />
 </a>
 
 <br/>
